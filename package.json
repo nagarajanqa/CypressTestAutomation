@@ -1,0 +1,19 @@
+{
+  "name": "cypresstestautomation",
+  "version": "1.0.0",
+  "description": "Repository for Cypress Test Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagarajanqa/CypressTestAutomation.git"
+  },
+  "author": "Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagarajanqa/CypressTestAutomation/issues"
+  },
+  "homepage": "https://github.com/nagarajanqa/CypressTestAutomation#readme"
+}
