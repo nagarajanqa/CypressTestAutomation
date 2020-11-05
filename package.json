@@ -1,0 +1,28 @@
+{
+  "name": "cypresstestautomation",
+  "version": "1.0.0",
+  "description": "Repository for Cypress Test Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "testnew": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagarajanqa/CypressTestAutomation.git"
+  },
+  "author": "Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagarajanqa/CypressTestAutomation/issues"
+  },
+  "homepage": "https://github.com/nagarajanqa/CypressTestAutomation#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "axe-core": "^4.0.2",
+    "cypress": "^5.5.0",
+    "cypress-axe": "^0.8.1"
+  }
+}
