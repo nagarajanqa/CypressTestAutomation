@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open",
+<<<<<<< HEAD
     "testn": "npx cypress run"
+=======
+    "testnew1": "npx cypress run"
+>>>>>>> 35ebb66238dee36a218fb55d169e57f13bbc544f
   },
   "repository": {
     "type": "git",
