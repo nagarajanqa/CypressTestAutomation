@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open",
-    "testnew": "npx cypress run"
+    "testkavi": "npx cypress run"
   },
   "repository": {
     "type": "git",
